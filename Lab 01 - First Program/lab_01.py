@@ -1,4 +1,4 @@
-print('hi')
-print('Hello \\World')
-print('Hi,\twhats up!')
-print('How \" its going?')
+print('hi.')
+print('Hello \\World.')
+print('\tHi mate,whats up!')
+print('Pablo said \"This is funny\".')
